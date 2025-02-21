@@ -1,4 +1,4 @@
 # first-git
-this is my first repository
-name-puspanjali bhoi
-add-cuttack
+this is my first repository..
+name-puspanjali bhoi..
+add-cuttack.
